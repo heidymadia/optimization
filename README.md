@@ -1,3 +1,5 @@
+Link https://towardsdatascience.com/scheduling-with-ease-cost-optimization-tutorial-for-python-c05a5910ee0d 
+
 # optimization
 
 Schedule optimization tutorial for Python
